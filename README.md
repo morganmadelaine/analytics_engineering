@@ -1,6 +1,6 @@
 # 🛠️ Analytics Engineering Projects
 
-Bienvenue dans ce repository regroupant mes projets en **Analytics Engineering**, réalisés dans le cadre de ma formation et de mon apprentissage continu.  
+Bienvenue dans ce repository regroupant mes projets en **Analytics Engineering**, réalisés dans le cadre de mon apprentissage continu.  
 L’objectif est de démontrer ma capacité à **concevoir, transformer et valoriser la donnée** grâce aux outils modernes de l’ingénierie analytique.
 
 ---
@@ -11,7 +11,7 @@ L’objectif est de démontrer ma capacité à **concevoir, transformer et valor
   - Documentation claire
   - Versioning des transformations
   - Tests et CI/CD
-- Développer un **portfolio professionnel** valorisant auprès des recruteurs.
+- Développer un **portfolio professionnel**.
 
 ---
 
@@ -47,13 +47,6 @@ Chaque dossier contient un projet structuré autour d’un cas pratique :
 - **Docker** pour la reproductibilité  
 - **GitHub Actions** pour la CI/CD  
 - **Power BI / Looker / Tableau** pour la dataviz  
-
----
-
-## 🚀 Résultats attendus
-- Un **portfolio GitHub clair et documenté**, démontrant mes compétences en Analytics Engineering.  
-- Des projets concrets, applicables en contexte professionnel.  
-- Une préparation solide à une évolution vers un poste de **Data Engineer**.  
 
 ---
 
