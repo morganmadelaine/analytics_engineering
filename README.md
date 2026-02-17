@@ -52,5 +52,5 @@ Chaque dossier contient un projet structuré autour d’un cas pratique :
 
 ## 📬 Contact
 👤 **Morgan Madelaine**  
-💼 Aspirant **Analytics Engineer → Data Engineer**  
+💼 **Analytics Engineer → Aspirant Data Engineer**  
 📧 https://www.linkedin.com/in/morgan-madelaine-pro/
